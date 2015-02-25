@@ -1,0 +1,40 @@
+{
+  "name": "positive-tracks-wordpress",
+  "version": "0.0.1",
+  "description": "Wordpress theme for Yippee Foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ciampam9@github.com/ciampam9/positive-tracks-wordpress.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "scss",
+    "coffeescript"
+  ],
+  "author": "matthew ciampa, laurence bradford",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/ciampam9/positive-tracks-wordpress/issues"
+  },
+  "homepage": "https://github.com/ciampam9/positive-tracks-wordpress",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.11.1",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-imagemin": "^0.8.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-rsync": "^0.6.2",
+    "grunt-sass": "^0.14.2",
+    "load-grunt-tasks": "^0.6.0",
+    "matchdep": "^0.3.0"
+  }
+}

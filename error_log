@@ -1,0 +1,4 @@
+[16-Dec-2014 14:57:45 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/southei5/public_html/learntocodewith/wp-content/themes/ltcwm-bootstrap/index.php on line 1
+[19-Jan-2015 20:46:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/southei5/public_html/learntocodewith/wp-content/themes/ltcwm-bootstrap/index.php on line 1
+[26-Jan-2015 07:22:59 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/southei5/public_html/learntocodewith/wp-content/themes/ltcwm-bootstrap/index.php on line 1
+[26-Jan-2015 07:22:59 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/southei5/public_html/learntocodewith/wp-content/themes/ltcwm-bootstrap/index.php on line 1
