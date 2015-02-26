@@ -1,6 +1,7 @@
 This is an adaption of the WP BOOTSTRAP theme. 
 ===================
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 Bootstrap (http://getbootstrap.com) in WordPress theme form. 
 
 Used Eddie Machado's Bones for a starting point (https://github.com/eddiemachado/bones) but it doesn't look too much like it any longer. 
